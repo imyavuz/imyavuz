@@ -4,7 +4,7 @@
 
 <h3 align="center">Hi 👋! My name is Yavuz and I'm a computer programmer from Sakaya.</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" width="600" height="300"/>
 </div>
 
 
